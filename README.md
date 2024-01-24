@@ -1,4 +1,4 @@
-### Hi there 👋
+
 
 <!--
 **keepalive4dev/keepalive4dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><img src="https://raw.githubusercontent.com/keepalive4dev/keepalive4dev/master/header.png"></p>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/keepalive4dev/keepalive4dev/master/Hi.gif" width="30px">, I am Kevin Patel </h1>
